@@ -1,2 +1,2 @@
 # testing_git
-checking if works
+checking if it works
